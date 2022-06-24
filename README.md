@@ -36,3 +36,5 @@ pip install -r requirements.text
 ## Conclusion
 
 Despite ANN being powerful enough to detect complex patterns. CNNs are more preferable in case of image and audio classification.
+
+MNIST Implementation using CNN on the way ;)
