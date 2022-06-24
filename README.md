@@ -28,7 +28,9 @@ pip install -r requirements.text
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/70194206/175437907-37ac5707-07b9-4514-9970-dbb1a75f85e0.png)
+
+![image](https://user-images.githubusercontent.com/70194206/175437868-297df080-6db3-4afe-9299-b401a9dce5c7.png)
 
 
 ## Conclusion
